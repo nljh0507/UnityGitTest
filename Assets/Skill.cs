@@ -13,6 +13,6 @@ public class Skill : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        print("Test");
     }
 }
