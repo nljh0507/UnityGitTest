@@ -14,5 +14,6 @@ public class Skill : MonoBehaviour
     void Update()
     {
         print("Test");
+        print("Test2");
     }
 }
